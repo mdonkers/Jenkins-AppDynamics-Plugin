@@ -1,3 +1,7 @@
+Note: Please refer to the repo https://github.com/jenkinsci/appdynamics-plugin which is the current, up-to-date one. This was the original repo but won't get updated.
+
+
+-----------------------------------------------------------------
 This plugin is written for integrating AppDynamics with Jenkins.
 
 AppDynamics provides detailed information about any application and this data can be queried via the REST
